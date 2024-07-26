@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "name":"Story book",
+        "title":"lorerem knjgdfjbsiudf dshusuhf d",
+        "category":"Free",
+        "price":0,
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149331952.jpg?t=st=1721930157~exp=1721933757~hmac=c06731fdad276c406381cc9c8b21e8affbbc16492a571ba3fa5af08c7792aee4&w=900"
+    },
+    {
+        "id":1,
+        "name":"Geography book",
+        "title":"lorerem knjgdfjbsiudf dshusuhf d",
+        "category":"Paid",
+        "price":0,
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149331952.jpg?t=st=1721930157~exp=1721933757~hmac=c06731fdad276c406381cc9c8b21e8affbbc16492a571ba3fa5af08c7792aee4&w=900"
+    },
+    {
+        "id":1,
+        "name":"History book",
+        "title":"lorerem knjgdfjbsiudf dshusuhf d",
+        "category":"Free",
+        "price":0,
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149331952.jpg?t=st=1721930157~exp=1721933757~hmac=c06731fdad276c406381cc9c8b21e8affbbc16492a571ba3fa5af08c7792aee4&w=900"
+    },
+    {
+        "id":1,
+        "name":"Education book",
+        "title":"lorerem knjgdfjbsiudf dshusuhf d",
+        "category":"Paid",
+        "price":0,
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149331952.jpg?t=st=1721930157~exp=1721933757~hmac=c06731fdad276c406381cc9c8b21e8affbbc16492a571ba3fa5af08c7792aee4&w=900"
+    },
+    {
+        "id":1,
+        "name":"General book",
+        "title":"lorerem knjgdfjbsiudf dshusuhf d",
+        "category":"Free",
+        "price":1500,
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149331952.jpg?t=st=1721930157~exp=1721933757~hmac=c06731fdad276c406381cc9c8b21e8affbbc16492a571ba3fa5af08c7792aee4&w=900"
+    },
+    {
+        "id":1,
+        "name":"Crime book",
+        "title":"lorerem knjgdfjbsiudf dshusuhf d",
+        "category":"Paid",
+        "price":1000,
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149331952.jpg?t=st=1721930157~exp=1721933757~hmac=c06731fdad276c406381cc9c8b21e8affbbc16492a571ba3fa5af08c7792aee4&w=900"
+    },
+    {
+        "id":1,
+        "name":"Thriller book",
+        "title":"lorerem knjgdfjbsiudf dshusuhf d",
+        "category":"Free",
+        "price":900,
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149331952.jpg?t=st=1721930157~exp=1721933757~hmac=c06731fdad276c406381cc9c8b21e8affbbc16492a571ba3fa5af08c7792aee4&w=900"
+    }
+]
