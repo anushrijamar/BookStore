@@ -3,7 +3,8 @@ import React from 'react';
 export default function Cards({ item }) {
     console.log(item);
     return (
-        <div className="card bg-base-100 w-80 h-auto shadow-xl m-4 mt-4 my-3">
+        <div className="card bg-base-100 w-80 h-auto shadow-xl m-4 mt-4 my-3
+        hover:scale-105 duration-300 dark:bg-slate-900 dark:text-white dark:border"> 
             <figure>
                 <img
                     src={item.image}
